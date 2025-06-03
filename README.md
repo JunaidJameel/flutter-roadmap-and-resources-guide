@@ -40,7 +40,6 @@ Starting a complete beginner if you are looking for some Udemy courses or YT pla
 
 - [Getting Started - Flutter Doc][flutter-get-started]
 - [Angela Yu Udemy Course][angela-yu-udemy]
-- [Net Ninja YT Playlist - Flutter for Beginners][net-ninja-playlist]
 
 After this, you must have the knowledge as shown below:
 <p align="center">
